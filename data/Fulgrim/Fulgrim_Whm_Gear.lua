@@ -56,20 +56,20 @@ function init_gear_sets()
     sets.precast.FC = {
 		main="Cath Palug Hammer",
 		sub="Chanter's Shield",
-		ammo="Incantor stone",
+		ammo="Impatiens",
 		head="Bunzi's Hat",
-		neck="Clr. Torque +2",
-		ear1="Malignance Earring",
-		ear2="Loquac. Earring",
 		body="Inyanga Jubbah +2",
-		hands="Gende. Gages +1",
-		ring1="Prolix Ring",
-		ring2="Kishar Ring",
-		back="Alaunus's Cape",
-		waist="Witful belt",
-		legs="Aya. Cosciales +2",
-		feet="Regal Pumps +1"
-		}
+		hands={ name="Fanatic Gloves", augments={'MP+50','Healing magic skill +10','"Conserve MP"+7','"Fast Cast"+7',}},
+		legs="Ebers Pant. +2",
+		feet="Regal Pumps +1",
+		neck={ name="Clr. Torque +2", augments={'Path: A',}},
+		waist="Witful Belt",
+		left_ear="Loquac. Earring",
+		right_ear="Malignance Earring",
+		left_ring="Rahab Ring",
+		right_ring="Kishar Ring",
+		back="Perimede Cape",
+	}
 		
     sets.precast.FC.DT = {main=gear.grioavolr_fc_staff,sub="Clerisy Strap +1",ammo="Impatiens",
 		head="Bunzi's Hat",neck="Voltsurge Torque",ear1="Enchntr. Earring +1",ear2="Loquac. Earring",
