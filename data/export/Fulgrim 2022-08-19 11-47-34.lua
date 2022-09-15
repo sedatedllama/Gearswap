@@ -1,0 +1,17 @@
+sets.exported={
+    main="Epeolatry",
+    sub="Utu Grip",
+    ammo={ name="Coiste Bodhar", augments={'Path: A',}},
+    head={ name="Adhemar Bonnet +1", augments={'STR+12','DEX+12','Attack+20',}},
+    body={ name="Adhemar Jacket +1", augments={'STR+12','DEX+12','Attack+20',}},
+    hands={ name="Adhemar Wrist. +1", augments={'STR+12','DEX+12','Attack+20',}},
+    legs={ name="Samnuha Tights", augments={'STR+10','DEX+10','"Dbl.Atk."+3','"Triple Atk."+3',}},
+    feet={ name="Herculean Boots", augments={'Attack+18','"Triple Atk."+4',}},
+    neck="Anu Torque",
+    waist="Windbuffet Belt +1",
+    left_ear="Cessance Earring",
+    right_ear="Sherida Earring",
+    left_ring="Epona's Ring",
+    right_ring="Niqmaddu Ring",
+    back={ name="Ogma's Cape", augments={'DEX+20','Accuracy+20 Attack+20','Accuracy+10','"Store TP"+10',}},
+}

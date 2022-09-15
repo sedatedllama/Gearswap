@@ -1,0 +1,17 @@
+sets.exported={
+    main="Epeolatry",
+    sub="Utu Grip",
+    ammo="Homiliary",
+    head={ name="Taeon Chapeau", augments={'Spell interruption rate down -10%','Phalanx +3',}},
+    body={ name="Taeon Tabard", augments={'"Fast Cast"+5','Phalanx +3',}},
+    hands={ name="Taeon Gloves", augments={'Phalanx +3',}},
+    legs={ name="Taeon Tights", augments={'Phalanx +3',}},
+    feet={ name="Taeon Boots", augments={'Spell interruption rate down -10%','Phalanx +3',}},
+    neck={ name="Loricate Torque +1", augments={'Path: A',}},
+    waist="Flume Belt +1",
+    left_ear="Genmei Earring",
+    right_ear="Ethereal Earring",
+    left_ring="Stikini Ring +1",
+    right_ring="Stikini Ring +1",
+    back="Moonlight Cape",
+}

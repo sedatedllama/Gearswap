@@ -1,0 +1,17 @@
+sets.exported={
+    main="Idris",
+    sub="Genmei Shield",
+    ammo="Staunch Tathlum +1",
+    head="Azimuth Hood +1",
+    body={ name="Witching Robe", augments={'MP+50','Mag. Acc.+15','"Mag.Atk.Bns."+15','"Refresh"+1',}},
+    hands={ name="Merlinic Dastanas", augments={'Mag. Acc.+21 "Mag.Atk.Bns."+21','"Fast Cast"+6','MND+1','Mag. Acc.+9','"Mag.Atk.Bns."+11',}},
+    legs="Azimuth Tights +1",
+    feet="Azimuth Gaiters +1",
+    neck={ name="Loricate Torque +1", augments={'Path: A',}},
+    waist="Witful Belt",
+    left_ear="Calamitous Earring",
+    right_ear="Ethereal Earring",
+    left_ring="Stikini Ring +1",
+    right_ring="Shneddick Ring",
+    back="Umbra Cape",
+}

@@ -1,0 +1,17 @@
+sets.exported={
+    main="Epeolatry",
+    sub="Utu Grip",
+    ammo="Staunch Tathlum +1",
+    head={ name="Carmine Mask +1", augments={'Accuracy+20','Mag. Acc.+12','"Fast Cast"+4',}},
+    body={ name="Taeon Tabard", augments={'"Fast Cast"+5','Phalanx +3',}},
+    hands="Nyame Gauntlets",
+    legs="Aya. Cosciales +2",
+    feet={ name="Carmine Greaves +1", augments={'HP+80','MP+80','Phys. dmg. taken -4',}},
+    neck="Orunmila's Torque",
+    waist="Flume Belt +1",
+    left_ear="Loquac. Earring",
+    right_ear={ name="Odnowa Earring +1", augments={'Path: A',}},
+    left_ring="Kishar Ring",
+    right_ring="Defending Ring",
+    back={ name="Ogma's Cape", augments={'HP+60','Eva.+20 /Mag. Eva.+20','Mag. Evasion+10','Enmity+10','Phys. dmg. taken-10%',}},
+}

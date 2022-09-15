@@ -1,0 +1,17 @@
+sets.exported={
+    main="Naegling",
+    sub="Blurred Shield +1",
+    ammo={ name="Coiste Bodhar", augments={'Path: A',}},
+    head={ name="Agoge Mask +3", augments={'Enhances "Savagery" effect',}},
+    body="Pumm. Lorica +3",
+    hands={ name="Valorous Mitts", augments={'Weapon skill damage +2%','"Subtle Blow"+2','Magic burst dmg.+3%','Mag. Acc.+11 "Mag.Atk.Bns."+11',}},
+    legs={ name="Valorous Hose", augments={'Accuracy+18','Weapon skill damage +5%','STR+1','Attack+13',}},
+    feet="Sulev. Leggings +2",
+    neck={ name="War. Beads +2", augments={'Path: A',}},
+    waist={ name="Sailfi Belt +1", augments={'Path: A',}},
+    left_ear={ name="Schere Earring", augments={'Path: A',}},
+    right_ear="Brutal Earring",
+    left_ring="Niqmaddu Ring",
+    right_ring="Defending Ring",
+    back={ name="Cichol's Mantle", augments={'DEX+20','Accuracy+20 Attack+20','"Dbl.Atk."+10','Occ. inc. resist. to stat. ailments+10',}},
+}

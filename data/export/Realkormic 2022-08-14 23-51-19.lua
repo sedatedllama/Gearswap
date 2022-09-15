@@ -1,0 +1,17 @@
+sets.exported={
+    main="Naegling",
+    sub={ name="Hitaki", augments={'TP Bonus +1000',}},
+    ammo="Aurgelmir Orb",
+    head={ name="Herculean Helm", augments={'Accuracy+11 Attack+11','Weapon skill damage +5%','STR+9','Accuracy+9',}},
+    body={ name="Herculean Vest", augments={'Accuracy+13','Weapon skill damage +4%','STR+10',}},
+    hands={ name="Herculean Gloves", augments={'STR+5','"Fast Cast"+1','Weapon skill damage +5%','Mag. Acc.+6 "Mag.Atk.Bns."+6',}},
+    legs={ name="Herculean Trousers", augments={'Rng.Atk.+30','Weapon skill damage +5%','DEX+9',}},
+    feet={ name="Herculean Boots", augments={'Weapon skill damage +5%','STR+5','Attack+12',}},
+    neck={ name="Ninja Nodowa +2", augments={'Path: A',}},
+    waist={ name="Sailfi Belt +1", augments={'Path: A',}},
+    left_ear="Ishvara Earring",
+    right_ear={ name="Moonshade Earring", augments={'Accuracy+4','TP Bonus +250',}},
+    left_ring="Epaminondas's Ring",
+    right_ring="Karieyh Ring",
+    back={ name="Andartia's Mantle", augments={'DEX+20','Accuracy+20 Attack+20','DEX+10','Weapon skill damage +10%',}},
+}

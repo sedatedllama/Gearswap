@@ -1,0 +1,17 @@
+sets.exported={
+    main="Epeolatry",
+    sub="Mensch Strap +1",
+    ammo="Staunch Tathlum +1",
+    head={ name="Taeon Chapeau", augments={'Spell interruption rate down -10%','Phalanx +3',}},
+    body="Nyame Mail",
+    hands={ name="Rawhide Gloves", augments={'HP+50','Accuracy+15','Evasion+20',}},
+    legs="Carmine Cuisses +1",
+    feet={ name="Taeon Boots", augments={'Spell interruption rate down -10%','Phalanx +3',}},
+    neck="Moonlight Necklace",
+    waist="Audumbla Sash",
+    left_ear="Friomisi Earring",
+    right_ear={ name="Odnowa Earring +1", augments={'Path: A',}},
+    left_ring="Defending Ring",
+    right_ring={ name="Gelatinous Ring +1", augments={'Path: A',}},
+    back={ name="Ogma's Cape", augments={'HP+60','Eva.+20 /Mag. Eva.+20','Mag. Evasion+10','Enmity+10','Phys. dmg. taken-10%',}},
+}

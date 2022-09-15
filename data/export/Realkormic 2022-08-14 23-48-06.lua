@@ -1,0 +1,17 @@
+sets.exported={
+    main="Naegling",
+    sub={ name="Hitaki", augments={'TP Bonus +1000',}},
+    ammo={ name="Coiste Bodhar", augments={'Path: A',}},
+    head="Ken. Jinpachi +1",
+    body="Ken. Samue +1",
+    hands="Ken. Tekko +1",
+    legs="Ken. Hakama +1",
+    feet="Ken. Sune-Ate +1",
+    neck={ name="Ninja Nodowa +2", augments={'Path: A',}},
+    waist="Windbuffet Belt +1",
+    left_ear="Cessance Earring",
+    right_ear="Balder Earring +1",
+    left_ring="Petrov Ring",
+    right_ring="Epona's Ring",
+    back={ name="Andartia's Mantle", augments={'DEX+20','Accuracy+20 Attack+20','"Dbl.Atk."+10','Damage taken-5%',}},
+}
