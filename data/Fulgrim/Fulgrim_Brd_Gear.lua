@@ -308,7 +308,7 @@ function init_gear_sets()
 	-- For song buffs (duration and AF3 set bonus)
 	sets.midcast.SongEffect = {
     main="Carnwenhan",
-    sub="Kali",
+    sub="Ammurapi shield",
     range="Gjallarhorn",
     head="Fili Calot +2",
     body="Fili Hongreline +2",
@@ -324,7 +324,7 @@ function init_gear_sets()
     back={ name="Intarabus's Cape", augments={'CHR+20','Mag. Acc+20 /Mag. Dmg.+20','"Fast Cast"+10',}},
 	}
 		
---	sets.midcast.SongEffect.DW = {main="Kali",sub="Kali"}
+	sets.midcast.SongEffect.DW = {main="Carnwenhan",sub="Kali"}
 
 	-- For song defbuffs (duration primary, accuracy secondary)
 	sets.midcast.SongDebuff = {
@@ -454,8 +454,10 @@ function init_gear_sets()
 --		body="Chironic Doublet",hands="Volte Gloves",ring1="Shiva Ring +1",ring2="Shiva Ring +1",
 --		back="Toro Cape",waist="Yamabuki-no-Obi",legs="Gyve Trousers",feet=gear.chironic_nuke_feet}
 		
---	sets.midcast.Cursna =  set_combine(sets.midcast.Cure, {neck="Debilis Medallion",hands="Hieros Mittens",
---		back="Oretan. Cape +1",ring1="Haoma's Ring",ring2="Menelaus's Ring",waist="Witful Belt",feet="Vanya Clogs"})
+	sets.midcast.Cursna =  set_combine(sets.midcast.Cure, {
+	head={ name="Kaykaus Mitra +1", augments={'MP+80','"Cure" spellcasting time -7%','Enmity-6',}},
+	hands="Inyan. Dastanas +2",
+	})
 		
 --	sets.midcast.StatusRemoval = set_combine(sets.midcast.FastRecast, {main=gear.grioavolr_fc_staff,sub="Clemency Grip"})
 
